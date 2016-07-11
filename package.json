@@ -9,7 +9,7 @@
   "author": "Brendobrien",
   "license": "MIT",
   "dependencies": {
+    "dateformat": "^1.0.12",
     "express": "^4.14.0",
-    "moment": "^2.14.1"
   }
 }
